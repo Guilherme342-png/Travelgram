@@ -151,3 +151,18 @@
     height: 286px;
     object-fit: cover;
 }
+
+footer{
+    display: flex;
+    justify-content: space-between;
+}
+
+footer p:nth-child(1){
+    margin: 25.5px 0px 25.5px 32px;
+
+}
+
+footer p:nth-child(2){
+    margin: 25.5px 32px 25.5px 0px;
+
+}
